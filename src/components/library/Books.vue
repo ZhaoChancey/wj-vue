@@ -13,7 +13,7 @@
                     :key="item.id">
           <p slot="content" style="font-size: 14px;margin-bottom: 6px">{{item.title}}</p>
           <p slot="content" style="font-size: 13px;margin-bottom: 6px">
-            {{item.author}}
+            {{item.author}}111
             {{item.date}}
             {{item.press}}
           </p>
