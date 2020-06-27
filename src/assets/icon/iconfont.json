@@ -1,0 +1,16 @@
+{
+  "id": "1837174",
+  "name": "kong-vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-kong",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14771895",
+      "name": "奶茶",
+      "font_class": "naicha",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
